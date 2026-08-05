@@ -13,9 +13,3 @@ Hello There, I’m Piyush Sohanda<br>A Computer Engineering student passionate a
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shylad2007&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Shylad2007&icon=3&color=11)](https://visitcount.itsvg.in)
