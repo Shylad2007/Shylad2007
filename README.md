@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello there, myself Piyush!<br>Just an avid learner who is learning web and app development.<br>Interested in learning about AI applications.<br>Currently learning MERN stack to build new-gen apps!
-
+Hello There, I’m Piyush Sohanda<br>A Computer Engineering student passionate about building impactful technology across Full Stack Development, AI, and Embedded Systems. I enjoy transforming ideas into real-world applications, solving challenging problems, and continuously learning through projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-sohanda-93527536a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psohanda007@gmail.com) 
